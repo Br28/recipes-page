@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.div {
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+  font-size: 48px;
+}
+
+.subtitle {
+  font-style: italic;
+  padding: 10px;
+}
+
+.the-heading {
+  background: white;
+  text-align: center;
+}
+
+.page-image {
+  background: white;
+}
+
+.image {
+  width: 500px;
+  height: 450px;
+  margin-left: 35%;
+  box-shadow: 5px 5px;
+}
+
+.page-links {
+  background: white;
+  list-style-type: none;
+}
+
+.links {
+  display: block;
+  margin: 5px;
+
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.link1 {
+  margin: 10px;
+  font-size: 22px;
+}
+
+.hero {
+  text-align: center;
+  font-size: 28px;
+  margin: 10px;
+  padding: 15px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+.footer {
+  background: black;
+  height: 5vh;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+}
